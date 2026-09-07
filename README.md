@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Chris
 
-<!--
-**cmkrile/cmkrile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at the University of Minnesota (B.S. expected May 2027), focused on
+backend engineering.
 
-Here are some ideas to get you started:
+Most recently I spent a summer as a **back-end developer intern at Altheros
+Capital**, working on a HIPAA-regulated telehealth platform — writing the test
+suite for an AWS S3/CloudFront file pipeline, hardening how the API handled
+protected health information, designing PostgreSQL migrations, and building a
+role-gated REST API for provider assignment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with:** Node.js · Express · PostgreSQL · AWS (S3, CloudFront,
+Cognito) · Docker · Jest
+
+**Also comfortable in:** Java · Python · C++ · SQL
+
+**Currently building:** [name the project you start this month — this line is
+the most valuable one here, because it says you write code when nobody is
+grading you]
+
+📫 cmkrile11@gmail.com · [LinkedIn](https://www.linkedin.com/in/christopher-krile)
