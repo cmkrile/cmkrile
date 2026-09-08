@@ -10,9 +10,9 @@ protected health information, designing PostgreSQL migrations, and building a
 role-gated REST API for provider assignment.
 
 **Working with:** Node.js · Express · PostgreSQL · AWS (S3, CloudFront,
-Cognito) · Docker · Jest
+Cognito) · Docker · Jest · Java · PostgresSQL
 
-**Also comfortable in:** Java · Python · C++ · SQL
+**Also comfortable in:** Python · C++
 
 **Currently building:** [name the project you start this month — this line is
 the most valuable one here, because it says you write code when nobody is
