@@ -14,8 +14,4 @@ Cognito) · Docker · Jest · Java · PostgresSQL
 
 **Also comfortable in:** Python · C++
 
-**Currently building:** [name the project you start this month — this line is
-the most valuable one here, because it says you write code when nobody is
-grading you]
-
 📫 cmkrile11@gmail.com · [LinkedIn](https://www.linkedin.com/in/christopher-krile)
